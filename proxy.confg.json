@@ -1,0 +1,8 @@
+{
+  "target": "todo",
+  "routes": {
+    "user": "http://jsonplaceholder.typicode.com/users",
+    "photo": "http://jsonplaceholder.typicode.com/photos",
+    "todo": "http://jsonplaceholder.typicode.com/todos"
+  }
+}
